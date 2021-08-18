@@ -401,4 +401,7 @@ body::-webkit-scrollbar-thumb, .contact-list::-webkit-scrollbar-thumb, .chat::-w
     .wrap {
         height: calc(100vh - 0.4em);
     }
+    .content{
+        font-size: 1rem!important;
+    }
 }
